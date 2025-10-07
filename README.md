@@ -24,12 +24,3 @@ A classic Pong game implemented with HTML, CSS, and JavaScript.
 ├── game.js       # Game logic
 └── README.md     # Project documentation
 ```
-
-## Demo
-
-![Screenshot of Pong Game](https://user-images.githubusercontent.com/placeholder/pong-demo.png)
-*Replace with your own screenshot if desired.*
-
-## License
-
-This project is open source and free to use.
